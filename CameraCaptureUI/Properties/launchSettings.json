@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CameraCaptureUI (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "CameraCaptureUI (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

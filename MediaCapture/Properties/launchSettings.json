@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MediaCapture (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "MediaCapture (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
